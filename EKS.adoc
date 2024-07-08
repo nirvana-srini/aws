@@ -1,1 +1,20 @@
+= AWS EKS
 
+Managed Service.
+
+AWS Management tool
+
+.Kubernetes
+
+. Cluster of *Nodes*
+. Control Plane nodes 
+. Follower Plane Nodes
+
+Nodes created are part of Auto Scaling Groups.
+
+AWS Management console
+AWS
+
+== Advantage
+
+Save time by managing the Control Plane nodes
